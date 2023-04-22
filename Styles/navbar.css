@@ -1,0 +1,26 @@
+.navbar{
+    display: flex;
+  background-color: blue;
+    
+}
+
+.links{
+    display: flex;
+    gap: 10%;
+    list-style-type: none;
+    flex: 1;
+    text-decoration: none;
+    
+
+    
+}
+a{
+    color: aliceblue;
+}
+li{
+    list-style: none;
+}
+a:hover{
+    color: rgb(153, 61, 24);
+}
+

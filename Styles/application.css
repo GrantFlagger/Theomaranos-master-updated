@@ -1,0 +1,171 @@
+.main{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  
+  
+  body {
+    background-color: rgb(229,210, 182);
+  }
+  
+  .begin{
+     width:300px;
+  }
+  
+  .Title{
+    text-size-adjust: 50px;
+    align-self: center;
+  }
+  
+  
+  
+  
+  .navbar{
+  display: flex;
+  border-style: solid;
+    
+  }
+  
+  .links{
+    display: flex;
+    gap: 10%;
+    list-style-type: none;
+    flex: 1;
+    text-decoration: none;
+  }
+  a{
+    color: black;
+  }
+  li{
+    list-style: none;
+  }
+  a:hover{
+    color: rgb(153, 61, 24);
+  }
+  
+  
+  
+  
+  
+  
+  .header{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .papel_photo{
+    width: 150px;
+  }
+  .Title{
+    font-style: italic;
+    margin-left: 20%;
+    flex: 1;
+  }
+  
+  
+  
+  .footer{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    
+    
+    
+    border-color: black;
+    border-left:none ;
+    border-bottom: none;
+    border-right: none;
+    
+    
+    border-top-style: solid;
+   
+  
+  
+  
+  
+    
+    
+   
+  
+    
+   
+   
+  }
+  .heading1{
+    width: -20px;
+    display: inline-block;
+    
+  }
+  .heading2{
+    
+    width: -20px;
+    display: inline-block;
+    
+  }
+  .location{
+    width: 20px;
+    }
+  .communication{
+    width:20px;
+  }
+  .facebook{
+    width: 20px;
+  }
+  .instagram{
+    width: 20px;
+  }
+  .youtube{
+    width: 20px;
+  }
+  .mail{
+    width: 20px;
+  }
+  
+  
+  .middle-section{
+    background-color: black;
+    
+   
+    
+    
+    
+    
+    
+  }
+  
+  
+  
+  
+  .form{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom:10% ;
+    background-color: brown;
+    
+    
+    
+  
+  
+  }
+  .login{
+  display: flex;
+  font-style: italic;
+  font-size: 50px;
+  justify-content: center;
+  background-color: brown;
+  
+  }
+  .middle{
+    background-color: brown;
+    margin: 0%;
+  }
+
+  .sign-up-button{
+    display: inline-block;
+    margin-bottom:10%;
+    margin-left:60%;
+    
+  }

@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    flex-direction: row;
+}
+
+.papel_photo{
+    width: 150px;
+}
+.Title{
+    font-style: italic;
+    margin-left: 20%;
+    flex: 1;
+}

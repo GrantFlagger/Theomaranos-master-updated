@@ -1,0 +1,65 @@
+.main{
+    background-color: bisque;
+    margin: 0;
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+   
+   
+}
+.heading1{
+    width: -20px;
+    display: inline-block;
+    
+}
+.heading2{
+    
+    width: -20px;
+    display: inline-block;
+    
+}
+.location{
+    width: 20px;
+    }
+.communication{
+    width:20px;
+}
+.facebook{
+    width: 20px;
+}
+.instagram{
+    width: 20px;
+}
+.youtube{
+    width: 20px;
+}
+.mail{
+    width: 20px;
+}
+
+.left-section{
+width: 150px;
+background-color: brown;
+
+
+}
+.middle-section{
+    background-color: black;
+    flex:1;
+    margin-left: 30px;
+    margin-right: 30px; ;
+    
+}
+
+
+.right-section{
+    background-color: brown;
+    width: 150px;
+    
+    
+
+}
